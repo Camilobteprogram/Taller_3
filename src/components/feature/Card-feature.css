@@ -1,0 +1,24 @@
+.feature-box{
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+.feature-box i{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.feature-box h3{
+    font-size: 1.5rem;
+    font-family: 'Roboto','sans-serif';
+}
+
+.box-dark{
+    background-color: rgba(0, 0, 1, 0.498);
+}
+
+.box-blue{
+    background-color: #00325eae;
+}
